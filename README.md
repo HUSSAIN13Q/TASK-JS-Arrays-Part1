@@ -1,6 +1,6 @@
 # JS-Arrays-Part1
 
-## Instructions
+## Instructionsc
 
 - Fork and clone [this repository](https://github.com/JoinCODED/JS-Arrays-Part1) to your `Development` folder.
   - ```bash
